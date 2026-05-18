@@ -19,7 +19,7 @@
 
 | Библиотека | Репозиторий |
 |-----------|-------------|
-| UCNLDrivers | \[github.com/ucnl/UCNLDrivers](https://github.com/ucnl/UCNLDrivers) |
-| UCNLNMEA | \[github.com/ucnl/UCNLNMEA](https://github.com/ucnl/UCNLNMEA) |
+| UCNLDrivers | [github.com/ucnl/UCNLDrivers](https://github.com/ucnl/UCNLDrivers) |
+| UCNLNMEA | [github.com/ucnl/UCNLNMEA](https://github.com/ucnl/UCNLNMEA) |
 
 
