@@ -129,23 +129,21 @@ class DeviceConfig {
     }    
 
     handleSettings(data) {
-        // Исправляем проверку для ssbChannelId
-        const channelId = (data.ssbChannelId !== undefined && data.ssbChannelId !== null) ? data.ssbChannelId : 16;
+        const channelId = (data.ssbChannelId != null) ? data.ssbChannelId : 16;
 
         document.getElementById('ssbChannel').value = channelId;
-        document.getElementById('headphoneVolume').value = data.headphoneOutVolume || 100;
-        document.getElementById('headphoneVolumeValue').textContent = (data.headphoneOutVolume || 100) + '%';
-        document.getElementById('vadSensitivity').value = data.vadSensitivity || 100;
-        document.getElementById('vadSensitivityValue').textContent = (data.vadSensitivity || 100) + '%';
-        document.getElementById('lowBatteryThreshold').value = data.lowBatteryThresholdV || 12.0;
-        document.getElementById('isRWLT').checked = data.isRWLT || false;
+        document.getElementById('headphoneVolume').value = data.headphoneOutVolume ?? 100;
+        document.getElementById('headphoneVolumeValue').textContent = (data.headphoneOutVolume ?? 100) + '%';
+        document.getElementById('vadSensitivity').value = data.vadSensitivity ?? 100;
+        document.getElementById('vadSensitivityValue').textContent = (data.vadSensitivity ?? 100) + '%';
+        document.getElementById('lowBatteryThreshold').value = data.lowBatteryThresholdV ?? 12.0;
+        document.getElementById('isRWLT').checked = data.isRWLT ?? false;
         document.getElementById('rwltGroup').style.display = data.isRWLT ? 'block' : 'none';
-        document.getElementById('rwltDiverId').value = data.rwltDiverId || 0;
-        document.getElementById('flashWrite').checked = data.flashWrite || false;
+        document.getElementById('rwltDiverId').value = data.rwltDiverId ?? 0;
+        document.getElementById('flashWrite').checked = data.flashWrite ?? false;
 
-        // Устанавливаем флаги по битам
-        const flags = data.flags1 || 0;
-        this.setFlagsFromValue(flags);        
+        const flags = data.flags1 ?? 0;
+        this.setFlagsFromValue(flags);
     }
 
     handleBusyStatus(data) {
