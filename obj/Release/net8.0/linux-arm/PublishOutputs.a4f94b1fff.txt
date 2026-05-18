@@ -1,4 +1,0 @@
-D:\SynologyDrive\Drive\UCNL_HOSTS\net\RedPhoneDXConfig\bin\Release\net8.0\publish\linux-arm\RedPhoneDXConfig.pdb
-D:\SynologyDrive\Drive\UCNL_HOSTS\net\RedPhoneDXConfig\bin\Release\net8.0\publish\linux-arm\RedPhoneDXConfig.dll.config
-D:\SynologyDrive\Drive\UCNL_HOSTS\net\RedPhoneDXConfig\bin\Release\net8.0\publish\linux-arm\libSystem.IO.Ports.Native.so
-D:\SynologyDrive\Drive\UCNL_HOSTS\net\RedPhoneDXConfig\bin\Release\net8.0\publish\linux-arm\RedPhoneDXConfig
