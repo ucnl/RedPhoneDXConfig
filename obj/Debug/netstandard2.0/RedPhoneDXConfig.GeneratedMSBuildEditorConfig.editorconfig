@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = RedPhoneDXConfig
+build_property.ProjectDir = D:\SynologyDrive\Drive\UCNL_HOSTS\net\RedPhoneDXConfig\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

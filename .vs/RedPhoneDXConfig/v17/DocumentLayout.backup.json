@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SynologyDrive\\Drive\\UCNL_HOSTS\\net\\RedPhoneDXConfig\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E782BD6-38BA-4A0A-95A9-976F4CAAA4E0}|RedPhoneDXConfig.csproj|d:\\synologydrive\\drive\\ucnl_hosts\\net\\redphonedxconfig\\redphonedxconfig.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E782BD6-38BA-4A0A-95A9-976F4CAAA4E0}|RedPhoneDXConfig.csproj|solutionrelative:redphonedxconfig.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E782BD6-38BA-4A0A-95A9-976F4CAAA4E0}|RedPhoneDXConfig.csproj|d:\\synologydrive\\drive\\ucnl_hosts\\net\\redphonedxconfig\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E782BD6-38BA-4A0A-95A9-976F4CAAA4E0}|RedPhoneDXConfig.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E782BD6-38BA-4A0A-95A9-976F4CAAA4E0}|RedPhoneDXConfig.csproj|d:\\synologydrive\\drive\\ucnl_hosts\\net\\redphonedxconfig\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5E782BD6-38BA-4A0A-95A9-976F4CAAA4E0}|RedPhoneDXConfig.csproj|solutionrelative:wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E782BD6-38BA-4A0A-95A9-976F4CAAA4E0}|RedPhoneDXConfig.csproj|d:\\synologydrive\\drive\\ucnl_hosts\\net\\redphonedxconfig\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5E782BD6-38BA-4A0A-95A9-976F4CAAA4E0}|RedPhoneDXConfig.csproj|solutionrelative:wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E782BD6-38BA-4A0A-95A9-976F4CAAA4E0}|RedPhoneDXConfig.csproj|d:\\synologydrive\\drive\\ucnl_hosts\\net\\redphonedxconfig\\rphport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E782BD6-38BA-4A0A-95A9-976F4CAAA4E0}|RedPhoneDXConfig.csproj|solutionrelative:rphport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E782BD6-38BA-4A0A-95A9-976F4CAAA4E0}|RedPhoneDXConfig.csproj|d:\\synologydrive\\drive\\ucnl_hosts\\net\\redphonedxconfig\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{5E782BD6-38BA-4A0A-95A9-976F4CAAA4E0}|RedPhoneDXConfig.csproj|solutionrelative:changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E782BD6-38BA-4A0A-95A9-976F4CAAA4E0}|RedPhoneDXConfig.csproj|d:\\synologydrive\\drive\\ucnl_hosts\\net\\redphonedxconfig\\web\\webserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E782BD6-38BA-4A0A-95A9-976F4CAAA4E0}|RedPhoneDXConfig.csproj|solutionrelative:web\\webserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E782BD6-38BA-4A0A-95A9-976F4CAAA4E0}|RedPhoneDXConfig.csproj|d:\\synologydrive\\drive\\ucnl_hosts\\net\\redphonedxconfig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E782BD6-38BA-4A0A-95A9-976F4CAAA4E0}|RedPhoneDXConfig.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.js",
+              "DocumentMoniker": "D:\\SynologyDrive\\Drive\\UCNL_HOSTS\\net\\RedPhoneDXConfig\\wwwroot\\app.js",
+              "RelativeDocumentMoniker": "wwwroot\\app.js",
+              "ToolTip": "D:\\SynologyDrive\\Drive\\UCNL_HOSTS\\net\\RedPhoneDXConfig\\wwwroot\\app.js",
+              "RelativeToolTip": "wwwroot\\app.js",
+              "ViewState": "AgIAANYAAAAAAAAAAAAVwOUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-15T11:17:44.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\SynologyDrive\\Drive\\UCNL_HOSTS\\net\\RedPhoneDXConfig\\wwwroot\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\style.css",
+              "ToolTip": "D:\\SynologyDrive\\Drive\\UCNL_HOSTS\\net\\RedPhoneDXConfig\\wwwroot\\style.css",
+              "RelativeToolTip": "wwwroot\\style.css",
+              "ViewState": "AgIAAP4BAAAAAAAAAAAjwAkCAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-15T11:17:07.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "changelog.md",
+              "DocumentMoniker": "D:\\SynologyDrive\\Drive\\UCNL_HOSTS\\net\\RedPhoneDXConfig\\changelog.md",
+              "RelativeDocumentMoniker": "changelog.md",
+              "ToolTip": "D:\\SynologyDrive\\Drive\\UCNL_HOSTS\\net\\RedPhoneDXConfig\\changelog.md",
+              "RelativeToolTip": "changelog.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-15T09:40:27.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\SynologyDrive\\Drive\\UCNL_HOSTS\\net\\RedPhoneDXConfig\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "D:\\SynologyDrive\\Drive\\UCNL_HOSTS\\net\\RedPhoneDXConfig\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-15T09:38:39.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RedPhoneDXConfig.csproj",
+              "DocumentMoniker": "D:\\SynologyDrive\\Drive\\UCNL_HOSTS\\net\\RedPhoneDXConfig\\RedPhoneDXConfig.csproj",
+              "RelativeDocumentMoniker": "RedPhoneDXConfig.csproj",
+              "ToolTip": "D:\\SynologyDrive\\Drive\\UCNL_HOSTS\\net\\RedPhoneDXConfig\\RedPhoneDXConfig.csproj",
+              "RelativeToolTip": "RedPhoneDXConfig.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-15T09:33:35.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RPHPort.cs",
+              "DocumentMoniker": "D:\\SynologyDrive\\Drive\\UCNL_HOSTS\\net\\RedPhoneDXConfig\\RPHPort.cs",
+              "RelativeDocumentMoniker": "RPHPort.cs",
+              "ToolTip": "D:\\SynologyDrive\\Drive\\UCNL_HOSTS\\net\\RedPhoneDXConfig\\RPHPort.cs",
+              "RelativeToolTip": "RPHPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T08:26:46.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebServer.cs",
+              "DocumentMoniker": "D:\\SynologyDrive\\Drive\\UCNL_HOSTS\\net\\RedPhoneDXConfig\\Web\\WebServer.cs",
+              "RelativeDocumentMoniker": "Web\\WebServer.cs",
+              "ToolTip": "D:\\SynologyDrive\\Drive\\UCNL_HOSTS\\net\\RedPhoneDXConfig\\Web\\WebServer.cs",
+              "RelativeToolTip": "Web\\WebServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T10:56:59.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SynologyDrive\\Drive\\UCNL_HOSTS\\net\\RedPhoneDXConfig\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SynologyDrive\\Drive\\UCNL_HOSTS\\net\\RedPhoneDXConfig\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAIAgwI8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T09:38:02.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

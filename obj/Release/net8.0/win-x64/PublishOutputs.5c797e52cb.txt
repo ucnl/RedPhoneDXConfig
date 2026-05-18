@@ -1,0 +1,3 @@
+D:\SynologyDrive\Drive\UCNL_HOSTS\net\RedPhoneDXConfig\bin\Release\net8.0\publish\win-x64\RedPhoneDXConfig.pdb
+D:\SynologyDrive\Drive\UCNL_HOSTS\net\RedPhoneDXConfig\bin\Release\net8.0\publish\win-x64\RedPhoneDXConfig.dll.config
+D:\SynologyDrive\Drive\UCNL_HOSTS\net\RedPhoneDXConfig\bin\Release\net8.0\publish\win-x64\RedPhoneDXConfig.exe

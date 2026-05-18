@@ -1,0 +1,10 @@
+D:\SynologyDrive\Drive\UCNL_HOSTS\net\RedPhoneDXConfig\bin\Release\netstandard2.0\RedPhoneDXConfig.deps.json
+D:\SynologyDrive\Drive\UCNL_HOSTS\net\RedPhoneDXConfig\bin\Release\netstandard2.0\RedPhoneDXConfig.dll
+D:\SynologyDrive\Drive\UCNL_HOSTS\net\RedPhoneDXConfig\bin\Release\netstandard2.0\RedPhoneDXConfig.pdb
+D:\SynologyDrive\Drive\UCNL_HOSTS\net\RedPhoneDXConfig\obj\Release\netstandard2.0\RedPhoneDXConfig.csproj.AssemblyReference.cache
+D:\SynologyDrive\Drive\UCNL_HOSTS\net\RedPhoneDXConfig\obj\Release\netstandard2.0\RedPhoneDXConfig.GeneratedMSBuildEditorConfig.editorconfig
+D:\SynologyDrive\Drive\UCNL_HOSTS\net\RedPhoneDXConfig\obj\Release\netstandard2.0\RedPhoneDXConfig.AssemblyInfoInputs.cache
+D:\SynologyDrive\Drive\UCNL_HOSTS\net\RedPhoneDXConfig\obj\Release\netstandard2.0\RedPhoneDXConfig.AssemblyInfo.cs
+D:\SynologyDrive\Drive\UCNL_HOSTS\net\RedPhoneDXConfig\obj\Release\netstandard2.0\RedPhoneDXConfig.csproj.CoreCompileInputs.cache
+D:\SynologyDrive\Drive\UCNL_HOSTS\net\RedPhoneDXConfig\obj\Release\netstandard2.0\RedPhoneDXConfig.dll
+D:\SynologyDrive\Drive\UCNL_HOSTS\net\RedPhoneDXConfig\obj\Release\netstandard2.0\RedPhoneDXConfig.pdb
