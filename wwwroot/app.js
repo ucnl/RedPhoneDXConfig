@@ -4,13 +4,13 @@ class DeviceConfig {
         this.ws = null;
         this.isConnected = false;
         this.deviceInfo = null;
-        this.maxLogEntries = 200; // Максимальное количество записей в логе
+        this.maxLogEntries = 32; // Максимальное количество записей в логе
 
         this.initWebSocket();
         this.initEventListeners();
         this.updateUI();
-
         this.setDefaultFlags();
+        this.initLogToggle();
     }
 
     initWebSocket() {
@@ -71,6 +71,48 @@ class DeviceConfig {
                 this.updateFlagsHexValue();
             });
         }                
+    }
+
+    initLogToggle() {
+        const logPanel = document.querySelector('.log-panel');
+        const logHeader = logPanel ? logPanel.querySelector('h2') : null;
+        const logContainer = document.getElementById('logContainer');
+
+        if (!logHeader || !logContainer) {
+            console.warn('Log elements not found');
+            return;
+        }
+
+        // Делаем заголовок кликабельным
+        logHeader.style.cursor = 'pointer';
+        logHeader.style.userSelect = 'none';
+
+        // По умолчанию скрываем лог
+        logContainer.style.display = 'none';
+
+        // Удаляем старый индикатор если есть
+        const oldIcon = logHeader.querySelector('.log-toggle-icon');
+        if (oldIcon) oldIcon.remove();
+
+        // Добавляем индикатор состояния
+        const toggleIcon = document.createElement('span');
+        toggleIcon.className = 'log-toggle-icon';
+        toggleIcon.textContent = ' ▶';
+        logHeader.appendChild(toggleIcon);
+
+        // Обработчик клика
+        logHeader.addEventListener('click', () => {
+            const isHidden = logContainer.style.display === 'none';
+
+            if (isHidden) {
+                logContainer.style.display = 'block';
+                toggleIcon.textContent = ' ▼';
+                logContainer.scrollTop = logContainer.scrollHeight;
+            } else {
+                logContainer.style.display = 'none';
+                toggleIcon.textContent = ' ▶';
+            }
+        });
     }
 
     handleMessage(message) {

@@ -355,13 +355,24 @@ select.form-control {
     justify-content: space-between;
     align-items: center;
     margin-bottom: 10px;
+    cursor: pointer; 
+    user-select: none; 
 }
+
+    .log-header:hover {
+        opacity: 0.8; 
+    }
 
     .log-header h2 {
         margin-bottom: 0;
         border-bottom: none;
         padding-bottom: 0;
     }
+
+.log-toggle-icon {
+    font-size: 0.8em; 
+    margin-left: 10px;
+}
 
 .btn-small {
     padding: 5px 14px;
